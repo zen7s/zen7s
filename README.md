@@ -2,6 +2,8 @@
 ## Hey! 👋
 I'm frontend developer
 
+e-mail: ankhzavtra@gmail.com
+
 
 ## ⚙️ Skills
 
